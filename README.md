@@ -1,1 +1,2 @@
-# -Big-Data-et-le-Cloud-Computing
+Dans ce projet, vous allez explorer le Big Data et le Cloud Computing. 
+ maîtriser des outils et technologies clés pour migrer un projet Data de votre environnement local vers un environnement Big Data, en utilisant PySpark. De plus, travailler dans des environnements Cloud distribués en utilisant leurs services prêt-à-l’emploi. Ce projet  initie à la gestion de grands volumes de données, en mettant l'accent sur la conception d’une architecture Big Data qui garantit l'efficacité et la scalabilité des processus de traitement de données. A développer des scripts en Pyspark et à utiliser le cloud AWS pour profiter d’une architecture Big Data (EMR, S3, IAM).
